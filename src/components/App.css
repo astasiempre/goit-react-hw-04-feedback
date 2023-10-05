@@ -1,0 +1,15 @@
+h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+
+/* Стилі для кнопок */
+
+
+/* Стилі для повідомлення про відсутність статистики */
+.notification {
+    font-size: 18px;
+    color: #ff0000;
+}
+
